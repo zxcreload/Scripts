@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Best-Script1/adoptme/refs/heads/main/PetSpawner'))()
